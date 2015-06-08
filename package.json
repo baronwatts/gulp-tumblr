@@ -1,0 +1,32 @@
+{
+  "name": "gulp-tumblr",
+  "version": "0.0.0",
+  "description": "A tumblr preprocessor for mocking content when developing a tumblr theme.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "~3.9.0",
+    "gulp-open": "~0.3.2",
+    "gulp-connect": "~2.2.0",
+    "node": "~0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shadesoflight/gulp-tumblr"
+  },
+  "keywords": [
+    "Gulp",
+    "Tumblr",
+    "Theme",
+    "Preprocess",
+    "Mocks"
+  ],
+  "author": "Chad Furman",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/shadesoflight/gulp-tumblr/issues"
+  }
+}
